@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\Tower Defense\bin\Debug\Tower Defense.exe.config
+C:\Users\Angel\source\repos\Tower Defense\bin\Debug\Tower Defense.exe
+C:\Users\Angel\source\repos\Tower Defense\bin\Debug\Tower Defense.pdb
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\TowerDefense.Form1.resources
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower_Defense.Properties.Resources.resources
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower Defense.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower Defense.exe
+C:\Users\Angel\source\repos\Tower Defense\obj\Debug\Tower Defense.pdb
